@@ -1,0 +1,17 @@
+<head 
+{ background: white;
+font-size 5px font-family: Roboto Mono; 
+}
+<style>
+{box-sizing:border-box; 
+}
+  .demo {
+    height:75px;
+    width:200x;
+    background-color:white
+    padding:20px
+    border:solid 5px beige
+    margin:10px
+  }
+  <style/>
+ 
